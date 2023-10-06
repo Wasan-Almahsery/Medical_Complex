@@ -1,0 +1,30 @@
+body
+{
+    background-color: rgb(231, 177, 138);
+}
+.Hager
+{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.Dr
+{
+    color: rgb(36, 35, 35);
+    font-size: 40px;
+}
+.info
+{
+    font-size: 28px;
+    color: rgb(36, 35, 35);
+}
+.equipment1
+{
+    width: 200px;
+    height: 200px;
+}
+.equipment2
+{
+    width: 200px;
+    height: 200px;
+}

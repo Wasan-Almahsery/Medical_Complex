@@ -1,0 +1,236 @@
+body {
+    background-color: rgb(81, 200, 247);
+    background-image: url(https://cdn.dribbble.com/users/1041961/screenshots/2515045/alchemy-dribbble-medicalicons.gif);
+    background-size: 36.5cm;
+    background-repeat: no-repeat;
+}
+
+.Pulse
+{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.line
+{
+    width: 700px;
+    height: 3px;
+    background-color: white;
+    margin: auto;
+    margin-top: -20px;
+}
+.Illusion {
+    text-align: center;
+    color: white;
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.together {
+    text-align: center;
+    color: white;
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.medcom {
+    text-align: center;
+    color: white;
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.div1 {
+    width: 300px;
+    height: 300px;
+    border: 3px dotted white;
+    text-align: center;
+    font-size: 20px;
+    float: left;
+    margin-left: 100px;
+}
+
+.div1:hover {
+    background-image: url(https://institute.careerguide.com/wp-content/uploads/2020/09/50dadd877401668d8d5a252f4e2a7a92.gif);
+    background-size: cover;
+}
+
+.perent {
+    overflow: auto;
+    margin-top: 20px;
+}
+
+.div2 {
+    width: 300px;
+    height: 300px;
+    border: 3px solid white;
+    text-align: center;
+    font-size: 20px;
+    float: left;
+    margin-left: 100px;
+}
+
+.div2:hover {
+    background-image: url(../cvDoctors/cosmClinic/image/girl.jpeg);
+    background-size: cover;
+}
+
+.div3 {
+    width: 300px;
+    height: 300px;
+    border: 3px dotted white;
+    text-align: center;
+    font-size: 20px;
+    float: left;
+    margin-left: 100px;
+}
+
+.div3:hover {
+    background-image: url(https://cdn.dribbble.com/users/1622190/screenshots/7498867/media/bfc0d6b5ce663c26f95c23bcc1c5face.gif);
+    background-size: cover;
+}
+
+.div4 {
+    width: 300px;
+    height: 300px;
+    border: 3px dotted white;
+    text-align: center;
+    font-size: 20px;
+    float: left;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+
+.div4:hover {
+    background-image: url(https://media.tenor.com/QqGsIwOSoCUAAAAM/heart.gif);
+    background-size: cover;
+}
+
+.div5 {
+    width: 300px;
+    height: 300px;
+    border: 3px solid white;
+    text-align: center;
+    font-size: 20px;
+    float: left;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+
+.div5:hover {
+    background-image: url(https://media.tenor.com/rpmK2cxMSTUAAAAM/watching-eyes.gif);
+    background-size: cover;
+}
+
+.div6 {
+    width: 300px;
+    height: 300px;
+    border: 3px dotted white;
+    text-align: center;
+    font-size: 20px;
+    float: left;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+
+.div6:hover {
+    background-image: url(https://phoneky.co.uk/thumbs/screensavers/down/fun/skeleton_wfvtvut6.gif);
+    background-size: cover;
+}
+
+.div7 {
+    width: 300px;
+    height: 300px;
+    border: 3px dotted white;
+    text-align: center;
+    font-size: 20px;
+    float: left;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+
+.div7:hover {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQn9ulMF-UCP7lbVx3dxJn8NHWTWCbzre9GA&usqp=CAU);
+    background-size: cover;
+}
+
+.div8 {
+    width: 300px;
+    height: 300px;
+    border: 3px solid white;
+    text-align: center;
+    font-size: 20px;
+    float: left;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+
+.div8:hover {
+    background-image: url(https://cdn.dribbble.com/users/1104126/screenshots/2717101/familia-logo.gif);
+    background-size: cover;
+}
+
+.div9 {
+    width: 300px;
+    height: 300px;
+    border: 3px dotted white;
+    text-align: center;
+    font-size: 20px;
+    float: left;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+
+.div9:hover {
+    background-image: url(https://www.icegif.com/wp-content/uploads/2023/08/icegif-838.gif);
+    background-size: cover;
+}
+
+.div10 {
+    width: 300px;
+    height: 300px;
+    border: 3px dotted white;
+    text-align: center;
+    font-size: 20px;
+    float: left;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+
+.div10:hover {
+    background-image: url(https://media.tenor.com/Frsy3PE7aloAAAAM/bh187-family-guy.gif);
+    background-size: cover;
+}
+
+.div11 {
+    width: 300px;
+    height: 300px;
+    border: 3px solid white;
+    text-align: center;
+    font-size: 20px;
+    float: left;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+
+.div11:hover {
+    background-image: url(https://cdn.dribbble.com/users/2291763/screenshots/4634272/dialysis.gif);
+    background-size: cover;
+}
+
+.div12 {
+    width: 300px;
+    height: 300px;
+    border: 3px dotted white;
+    text-align: center;
+    font-size: 20px;
+    float: left;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+
+.div12:hover {
+    background-image: url(https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZkbnlvdTN5aWdocnUxZHJpd20ydzh5dmQyaHE0MWUxZzd5ZDh0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aPBXEeY01Dfp9tjyqi/giphy.gif);
+    background-size: cover;
+}
